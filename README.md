@@ -1,6 +1,6 @@
 # Presentación personal
 
-Me llamo Josefina Ferrari. Naci el 8 de octubre de 2002 en Buenos Aires, Argentina. Me mude a Montevideo, Uruguay en 2010 con mis hermanos y mis padres.
+Me llamo Josefina Ferrari. Nací el 8 de octubre de 2002 en Buenos Aires, Argentina. Me mude a Montevideo, Uruguay en 2010 con mis hermanos y mis padres.
 
 
 ## Estudios
